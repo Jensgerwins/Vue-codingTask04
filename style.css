@@ -1,0 +1,17 @@
+.button_content--active {
+    background-color: green;
+}
+
+.button_content {
+    background-color: #2e0063;
+    color: #fff;
+    padding: 10px 15px;
+    display: inline-block;
+    line-height: 1.5;
+    border: none;
+    font-size: 1rem;
+  }
+
+  .button_content--activer {
+    background-color: blanchedalmond;
+}
